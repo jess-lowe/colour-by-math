@@ -1,0 +1,12 @@
+﻿type,x1,y1,x2,y2,fillcolour,outline colour,width,text,font,anchor,name,number
+rectangle,530,0,600,70,#ffc90e,#ffc90e,1,,,,,0
+rectangle,680,0,750,70,#ffc90e,#ffc90e,1,,,,,0
+rectangle,380,30,450,100,#ffc90e,#ffc90e,1,,,,,0
+rectangle,570,30,640,100,#ffc90e,#ffc90e,1,,,,easteregg,0
+rectangle,430,90,480,140,#ffc90e,#ffc90e,1,,,,,0
+rectangle,330,120,380,170,#ffc90e,#ffc90e,1,,,,,0
+rectangle,500,150,550,200,#ffc90e,#ffc90e,1,,,,,0
+rectangle,650,120,700,170,#ffc90e,#ffc90e,1,,,,,0
+rectangle,680,290,730,340,#ffc90e,#ffc90e,1,,,,,0
+text,400,150,0,0,#7092be,,5,Enter your age,Arial 70,center,,0
+text,400,250,0,0,#ffc90e,,5,You must be between the age of 5 and 10 to play,Arial 24,center,,0

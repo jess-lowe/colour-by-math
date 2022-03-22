@@ -1,0 +1,456 @@
+﻿type,x1,y1,x2,y2,fillcolour,outline colour,width,text,font,anchor,name,number
+rectangle,200,15,770,585,#7092ba,#ffc90e,4,,,,,0
+rectangle,200,15,238,53,white,black,1,,1a,0,white,1
+rectangle,238,15,276,53,white,black,1,,2a,1,white,2
+rectangle,276,15,314,53,white,black,1,,3a,2,white,3
+rectangle,314,15,352,53,white,black,1,,4a,3,white,4
+rectangle,352,15,390,53,white,black,1,,5a,4,white,5
+rectangle,390,15,428,53,white,black,1,,6a,5,white,6
+rectangle,428,15,466,53,white,black,1,,7a,6,white,7
+rectangle,466,15,504,53,white,black,1,,8a,7,black,8
+rectangle,504,15,542,53,white,black,1,,9a,8,white,9
+rectangle,542,15,580,53,white,black,1,,10a,9,white,10
+rectangle,580,15,618,53,white,black,1,,11a,10,white,11
+rectangle,618,15,656,53,white,black,1,,12a,11,white,12
+rectangle,656,15,694,53,white,black,1,,13a,12,white,13
+rectangle,694,15,732,53,white,black,1,,14a,13,white,14
+rectangle,732,15,770,53,white,black,1,,15a,14,white,15
+rectangle,200,53,238,91,white,black,1,,1b,15,white,16
+rectangle,238,53,276,91,white,black,1,,2b,16,white,17
+rectangle,276,53,314,91,white,black,1,,3b,17,white,18
+rectangle,314,53,352,91,white,black,1,,4b,18,white,19
+rectangle,352,53,390,91,white,black,1,,5b,19,white,20
+rectangle,390,53,428,91,white,black,1,,6b,20,white,21
+rectangle,428,53,466,91,white,black,1,,7b,21,black,22
+rectangle,466,53,504,91,white,black,1,,8b,22,yellow,23
+rectangle,504,53,542,91,white,black,1,,9b,23,black,24
+rectangle,542,53,580,91,white,black,1,,10b,24,white,25
+rectangle,580,53,618,91,white,black,1,,11b,25,white,26
+rectangle,618,53,656,91,white,black,1,,12b,26,white,27
+rectangle,656,53,694,91,white,black,1,,13b,27,white,28
+rectangle,694,53,732,91,white,black,1,,14b,28,white,29
+rectangle,732,53,770,91,white,black,1,,15b,29,white,30
+rectangle,200,91,238,129,white,black,1,,1c,30,white,31
+rectangle,238,91,276,129,white,black,1,,2c,31,white,32
+rectangle,276,91,314,129,white,black,1,,3c,32,white,33
+rectangle,314,91,352,129,white,black,1,,4c,33,white,34
+rectangle,352,91,390,129,white,black,1,,5c,34,white,35
+rectangle,390,91,428,129,white,black,1,,6c,35,white,36
+rectangle,428,91,466,129,white,black,1,,7c,36,black,37
+rectangle,466,91,504,129,white,black,1,,8c,37,yellow,38
+rectangle,504,91,542,129,white,black,1,,9c,38,black,39
+rectangle,542,91,580,129,white,black,1,,10c,39,white,40
+rectangle,580,91,618,129,white,black,1,,11c,40,white,41
+rectangle,618,91,656,129,white,black,1,,12c,41,white,42
+rectangle,656,91,694,129,white,black,1,,13c,42,white,43
+rectangle,694,91,732,129,white,black,1,,14c,43,white,44
+rectangle,732,91,770,129,white,black,1,,15c,44,white,45
+rectangle,200,129,238,167,white,black,1,,1d,45,white,46
+rectangle,238,129,276,167,white,black,1,,2d,46,white,47
+rectangle,276,129,314,167,white,black,1,,3d,47,white,48
+rectangle,314,129,352,167,white,black,1,,4d,48,white,49
+rectangle,352,129,390,167,white,black,1,,5d,49,white,50
+rectangle,390,129,428,167,white,black,1,,6d,50,black,51
+rectangle,428,129,466,167,white,black,1,,7d,51,yellow,52
+rectangle,466,129,504,167,white,black,1,,8d,52,yellow,53
+rectangle,504,129,542,167,white,black,1,,9d,53,yellow,54
+rectangle,542,129,580,167,white,black,1,,10d,54,black,55
+rectangle,580,129,618,167,white,black,1,,11d,55,white,56
+rectangle,618,129,656,167,white,black,1,,12d,56,white,57
+rectangle,656,129,694,167,white,black,1,,13d,57,white,58
+rectangle,694,129,732,167,white,black,1,,14d,58,white,59
+rectangle,732,129,770,167,white,black,1,,15d,59,white,60
+rectangle,200,167,238,205,white,black,1,,1e,60,white,61
+rectangle,238,167,276,205,white,black,1,,2e,61,white,62
+rectangle,276,167,314,205,white,black,1,,3e,62,white,63
+rectangle,314,167,352,205,white,black,1,,4e,63,white,64
+rectangle,352,167,390,205,white,black,1,,5e,64,white,65
+rectangle,390,167,428,205,white,black,1,,6e,65,black,66
+rectangle,428,167,466,205,white,black,1,,7e,66,yellow,67
+rectangle,466,167,504,205,white,black,1,,8e,67,yellow,68
+rectangle,504,167,542,205,white,black,1,,9e,68,yellow,69
+rectangle,542,167,580,205,white,black,1,,10e,69,black,70
+rectangle,580,167,618,205,white,black,1,,11e,70,white,71
+rectangle,618,167,656,205,white,black,1,,12e,71,white,72
+rectangle,656,167,694,205,white,black,1,,13e,72,white,73
+rectangle,694,167,732,205,white,black,1,,14e,73,white,74
+rectangle,732,167,770,205,white,black,1,,15e,74,white,75
+rectangle,200,205,238,243,white,black,1,,1f,75,black,76
+rectangle,238,205,276,243,white,black,1,,2f,76,black,77
+rectangle,276,205,314,243,white,black,1,,3f,77,black,78
+rectangle,314,205,352,243,white,black,1,,4f,78,black,79
+rectangle,352,205,390,243,white,black,1,,5f,79,black,80
+rectangle,390,205,428,243,white,black,1,,6f,80,yellow,81
+rectangle,428,205,466,243,white,black,1,,7f,81,yellow,82
+rectangle,466,205,504,243,white,black,1,,8f,82,yellow,83
+rectangle,504,205,542,243,white,black,1,,9f,83,yellow,84
+rectangle,542,205,580,243,white,black,1,,10f,84,yellow,85
+rectangle,580,205,618,243,white,black,1,,11f,85,black,86
+rectangle,618,205,656,243,white,black,1,,12f,86,black,87
+rectangle,656,205,694,243,white,black,1,,13f,87,black,88
+rectangle,694,205,732,243,white,black,1,,14f,88,black,89
+rectangle,732,205,770,243,white,black,1,,15f,89,black,90
+rectangle,200,243,238,281,white,black,1,,1g,90,white,91
+rectangle,238,243,276,281,white,black,1,,2g,91,black,92
+rectangle,276,243,314,281,white,black,1,,3g,92,gold,93
+rectangle,314,243,352,281,white,black,1,,4g,93,gold,94
+rectangle,352,243,390,281,white,black,1,,5g,94,yellow,95
+rectangle,390,243,428,281,white,black,1,,6g,95,yellow,96
+rectangle,428,243,466,281,white,black,1,,7g,96,black,97
+rectangle,466,243,504,281,white,black,1,,8g,97,yellow,98
+rectangle,504,243,542,281,white,black,1,,9g,98,black,99
+rectangle,542,243,580,281,white,black,1,,10g,99,yellow,100
+rectangle,580,243,618,281,white,black,1,,11g,100,yellow,101
+rectangle,618,243,656,281,white,black,1,,12g,101,gold,102
+rectangle,656,243,694,281,white,black,1,,13g,102,gold,103
+rectangle,694,243,732,281,white,black,1,,14g,103,black,104
+rectangle,732,243,770,281,white,black,1,,15g,104,white,105
+rectangle,200,281,238,319,white,black,1,,1h,105,white,106
+rectangle,238,281,276,319,white,black,1,,2h,106,white,107
+rectangle,276,281,314,319,white,black,1,,3h,107,black,108
+rectangle,314,281,352,319,white,black,1,,4h,108,orange,109
+rectangle,352,281,390,319,white,black,1,,5h,109,gold,110
+rectangle,390,281,428,319,white,black,1,,6h,110,yellow,111
+rectangle,428,281,466,319,white,black,1,,7h,111,black,112
+rectangle,466,281,504,319,white,black,1,,8h,112,yellow,113
+rectangle,504,281,542,319,white,black,1,,9h,113,black,114
+rectangle,542,281,580,319,white,black,1,,10h,114,yellow,115
+rectangle,580,281,618,319,white,black,1,,11h,115,gold,116
+rectangle,618,281,656,319,white,black,1,,12h,116,orange,117
+rectangle,656,281,694,319,white,black,1,,13h,117,black,118
+rectangle,694,281,732,319,white,black,1,,14h,118,white,119
+rectangle,732,281,770,319,white,black,1,,15h,119,white,120
+rectangle,200,319,238,357,white,black,1,,1i,120,white,121
+rectangle,238,319,276,357,white,black,1,,2i,121,white,122
+rectangle,276,319,314,357,white,black,1,,3i,122,white,123
+rectangle,314,319,352,357,white,black,1,,4i,123,black,124
+rectangle,352,319,390,357,white,black,1,,5i,124,orange,125
+rectangle,390,319,428,357,white,black,1,,6i,125,yellow,126
+rectangle,428,319,466,357,white,black,1,,7i,126,black,127
+rectangle,466,319,504,357,white,black,1,,8i,127,yellow,128
+rectangle,504,319,542,357,white,black,1,,9i,128,black,129
+rectangle,542,319,580,357,white,black,1,,10i,129,yellow,130
+rectangle,580,319,618,357,white,black,1,,11i,130,orange,131
+rectangle,618,319,656,357,white,black,1,,12i,131,black,132
+rectangle,656,319,694,357,white,black,1,,13i,132,white,133
+rectangle,694,319,732,357,white,black,1,,14i,133,white,134
+rectangle,732,319,770,357,white,black,1,,15i,134,white,135
+rectangle,200,357,238,395,white,black,1,,1j,135,white,136
+rectangle,238,357,276,395,white,black,1,,2j,136,white,137
+rectangle,276,357,314,395,white,black,1,,3j,137,black,138
+rectangle,314,357,352,395,white,black,1,,4j,138,orange,139
+rectangle,352,357,390,395,white,black,1,,5j,139,gold,140
+rectangle,390,357,428,395,white,black,1,,6j,140,yellow,141
+rectangle,428,357,466,395,white,black,1,,7j,141,yellow,142
+rectangle,466,357,504,395,white,black,1,,8j,142,yellow,143
+rectangle,504,357,542,395,white,black,1,,9j,143,yellow,144
+rectangle,542,357,580,395,white,black,1,,10j,144,yellow,145
+rectangle,580,357,618,395,white,black,1,,11j,145,gold,146
+rectangle,618,357,656,395,white,black,1,,12j,146,orange,147
+rectangle,656,357,694,395,white,black,1,,13j,147,black,148
+rectangle,694,357,732,395,white,black,1,,14j,148,white,149
+rectangle,732,357,770,395,white,black,1,,15j,149,white,150
+rectangle,200,395,238,433,white,black,1,,1k,150,white,151
+rectangle,238,395,276,433,white,black,1,,2k,151,white,152
+rectangle,276,395,314,433,white,black,1,,3k,152,black,153
+rectangle,314,395,352,433,white,black,1,,4k,153,orange,154
+rectangle,352,395,390,433,white,black,1,,5k,154,gold,155
+rectangle,390,395,428,433,white,black,1,,6k,155,gold,156
+rectangle,428,395,466,433,white,black,1,,7k,156,gold,157
+rectangle,466,395,504,433,white,black,1,,8k,157,orange,158
+rectangle,504,395,542,433,white,black,1,,9k,158,gold,159
+rectangle,542,395,580,433,white,black,1,,10k,159,gold,160
+rectangle,580,395,618,433,white,black,1,,11k,160,gold,161
+rectangle,618,395,656,433,white,black,1,,12k,161,orange,162
+rectangle,656,395,694,433,white,black,1,,13k,162,black,163
+rectangle,694,395,732,433,white,black,1,,14k,163,white,164
+rectangle,732,395,770,433,white,black,1,,15k,164,white,165
+rectangle,200,433,238,471,white,black,1,,1l,165,white,166
+rectangle,238,433,276,471,white,black,1,,2l,166,black,167
+rectangle,276,433,314,471,white,black,1,,3l,167,orange,168
+rectangle,314,433,352,471,white,black,1,,4l,168,gold,169
+rectangle,352,433,390,471,white,black,1,,5l,169,gold,170
+rectangle,390,433,428,471,white,black,1,,6l,170,orange,171
+rectangle,428,433,466,471,white,black,1,,7l,171,orange,172
+rectangle,466,433,504,471,white,black,1,,8l,172,black,173
+rectangle,504,433,542,471,white,black,1,,9l,173,orange,174
+rectangle,542,433,580,471,white,black,1,,10l,174,orange,175
+rectangle,580,433,618,471,white,black,1,,11l,175,gold,176
+rectangle,618,433,656,471,white,black,1,,12l,176,gold,177
+rectangle,656,433,694,471,white,black,1,,13l,177,orange,178
+rectangle,694,433,732,471,white,black,1,,14l,178,black,179
+rectangle,732,433,770,471,white,black,1,,15l,179,white,180
+rectangle,200,471,238,509,white,black,1,,1m,180,white,181
+rectangle,238,471,276,509,white,black,1,,2m,181,black,182
+rectangle,276,471,314,509,white,black,1,,3m,182,orange,183
+rectangle,314,471,352,509,white,black,1,,4m,183,orange,184
+rectangle,352,471,390,509,white,black,1,,5m,184,orange,185
+rectangle,390,471,428,509,white,black,1,,6m,185,black,186
+rectangle,428,471,466,509,white,black,1,,7m,186,black,187
+rectangle,466,471,504,509,white,black,1,,8m,187,white,188
+rectangle,504,471,542,509,white,black,1,,9m,188,black,189
+rectangle,542,471,580,509,white,black,1,,10m,189,black,190
+rectangle,580,471,618,509,white,black,1,,11m,190,orange,191
+rectangle,618,471,656,509,white,black,1,,12m,191,orange,192
+rectangle,656,471,694,509,white,black,1,,13m,192,orange,193
+rectangle,694,471,732,509,white,black,1,,14m,193,black,194
+rectangle,732,471,770,509,white,black,1,,15m,194,white,195
+rectangle,200,509,238,547,white,black,1,,1n,195,black,196
+rectangle,238,509,276,547,white,black,1,,2n,196,orange,197
+rectangle,276,509,314,547,white,black,1,,3n,197,orange,198
+rectangle,314,509,352,547,white,black,1,,4n,198,black,199
+rectangle,352,509,390,547,white,black,1,,5n,199,black,200
+rectangle,390,509,428,547,white,black,1,,6n,200,white,201
+rectangle,428,509,466,547,white,black,1,,7n,201,white,202
+rectangle,466,509,504,547,white,black,1,,8n,202,white,203
+rectangle,504,509,542,547,white,black,1,,9n,203,white,204
+rectangle,542,509,580,547,white,black,1,,10n,204,white,205
+rectangle,580,509,618,547,white,black,1,,11n,205,black,206
+rectangle,618,509,656,547,white,black,1,,12n,206,black,207
+rectangle,656,509,694,547,white,black,1,,13n,207,orange,208
+rectangle,694,509,732,547,white,black,1,,14n,208,orange,209
+rectangle,732,509,770,547,white,black,1,,15n,209,black,210
+rectangle,200,547,238,585,white,black,1,,1o,210,black,211
+rectangle,238,547,276,585,white,black,1,,2o,211,black,212
+rectangle,276,547,314,585,white,black,1,,3o,212,black,213
+rectangle,314,547,352,585,white,black,1,,4o,213,white,214
+rectangle,352,547,390,585,white,black,1,,5o,214,white,215
+rectangle,390,547,428,585,white,black,1,,6o,215,white,216
+rectangle,428,547,466,585,white,black,1,,7o,216,white,217
+rectangle,466,547,504,585,white,black,1,,8o,217,white,218
+rectangle,504,547,542,585,white,black,1,,9o,218,white,219
+rectangle,542,547,580,585,white,black,1,,10o,219,white,220
+rectangle,580,547,618,585,white,black,1,,11o,220,white,221
+rectangle,618,547,656,585,white,black,1,,12o,221,white,222
+rectangle,656,547,694,585,white,black,1,,13o,222,black,223
+rectangle,694,547,732,585,white,black,1,,14o,223,black,224
+rectangle,732,547,770,585,white,black,1,,15o,224,black,225
+text,219,34,0,0,black,0,1,1,Arial 10,center,1a,1
+text,257,34,0,0,black,1,1,2,Arial 10,center,2a,2
+text,295,34,0,0,black,2,1,3,Arial 10,center,3a,3
+text,333,34,0,0,black,3,1,4,Arial 10,center,4a,4
+text,371,34,0,0,black,4,1,5,Arial 10,center,5a,5
+text,409,34,0,0,black,5,1,6,Arial 10,center,6a,6
+text,447,34,0,0,black,6,1,7,Arial 10,center,7a,7
+text,485,34,0,0,black,7,1,8,Arial 10,center,8a,8
+text,523,34,0,0,black,8,1,9,Arial 10,center,9a,9
+text,561,34,0,0,black,9,1,10,Arial 10,center,10a,10
+text,599,34,0,0,black,10,1,11,Arial 10,center,11a,11
+text,637,34,0,0,black,11,1,12,Arial 10,center,12a,12
+text,675,34,0,0,black,12,1,13,Arial 10,center,13a,13
+text,713,34,0,0,black,13,1,14,Arial 10,center,14a,14
+text,751,34,0,0,black,14,1,15,Arial 10,center,15a,15
+text,219,72,0,0,black,15,1,16,Arial 10,center,1b,16
+text,257,72,0,0,black,16,1,17,Arial 10,center,2b,17
+text,295,72,0,0,black,17,1,18,Arial 10,center,3b,18
+text,333,72,0,0,black,18,1,19,Arial 10,center,4b,19
+text,371,72,0,0,black,19,1,20,Arial 10,center,5b,20
+text,409,72,0,0,black,20,1,21,Arial 10,center,6b,21
+text,447,72,0,0,black,21,1,22,Arial 10,center,7b,22
+text,485,72,0,0,black,22,1,23,Arial 10,center,8b,23
+text,523,72,0,0,black,23,1,24,Arial 10,center,9b,24
+text,561,72,0,0,black,24,1,25,Arial 10,center,10b,25
+text,599,72,0,0,black,25,1,26,Arial 10,center,11b,26
+text,637,72,0,0,black,26,1,27,Arial 10,center,12b,27
+text,675,72,0,0,black,27,1,28,Arial 10,center,13b,28
+text,713,72,0,0,black,28,1,29,Arial 10,center,14b,29
+text,751,72,0,0,black,29,1,30,Arial 10,center,15b,30
+text,219,110,0,0,black,30,1,31,Arial 10,center,1c,31
+text,257,110,0,0,black,31,1,32,Arial 10,center,2c,32
+text,295,110,0,0,black,32,1,33,Arial 10,center,3c,33
+text,333,110,0,0,black,33,1,34,Arial 10,center,4c,34
+text,371,110,0,0,black,34,1,35,Arial 10,center,5c,35
+text,409,110,0,0,black,35,1,36,Arial 10,center,6c,36
+text,447,110,0,0,black,36,1,37,Arial 10,center,7c,37
+text,485,110,0,0,black,37,1,38,Arial 10,center,8c,38
+text,523,110,0,0,black,38,1,39,Arial 10,center,9c,39
+text,561,110,0,0,black,39,1,40,Arial 10,center,10c,40
+text,599,110,0,0,black,40,1,41,Arial 10,center,11c,41
+text,637,110,0,0,black,41,1,42,Arial 10,center,12c,42
+text,675,110,0,0,black,42,1,43,Arial 10,center,13c,43
+text,713,110,0,0,black,43,1,44,Arial 10,center,14c,44
+text,751,110,0,0,black,44,1,45,Arial 10,center,15c,45
+text,219,148,0,0,black,45,1,46,Arial 10,center,1d,46
+text,257,148,0,0,black,46,1,47,Arial 10,center,2d,47
+text,295,148,0,0,black,47,1,48,Arial 10,center,3d,48
+text,333,148,0,0,black,48,1,49,Arial 10,center,4d,49
+text,371,148,0,0,black,49,1,50,Arial 10,center,5d,50
+text,409,148,0,0,black,50,1,51,Arial 10,center,6d,51
+text,447,148,0,0,black,51,1,52,Arial 10,center,7d,52
+text,485,148,0,0,black,52,1,53,Arial 10,center,8d,53
+text,523,148,0,0,black,53,1,54,Arial 10,center,9d,54
+text,561,148,0,0,black,54,1,55,Arial 10,center,10d,55
+text,599,148,0,0,black,55,1,56,Arial 10,center,11d,56
+text,637,148,0,0,black,56,1,57,Arial 10,center,12d,57
+text,675,148,0,0,black,57,1,58,Arial 10,center,13d,58
+text,713,148,0,0,black,58,1,59,Arial 10,center,14d,59
+text,751,148,0,0,black,59,1,60,Arial 10,center,15d,60
+text,219,186,0,0,black,60,1,61,Arial 10,center,1e,61
+text,257,186,0,0,black,61,1,62,Arial 10,center,2e,62
+text,295,186,0,0,black,62,1,63,Arial 10,center,3e,63
+text,333,186,0,0,black,63,1,64,Arial 10,center,4e,64
+text,371,186,0,0,black,64,1,65,Arial 10,center,5e,65
+text,409,186,0,0,black,65,1,66,Arial 10,center,6e,66
+text,447,186,0,0,black,66,1,67,Arial 10,center,7e,67
+text,485,186,0,0,black,67,1,68,Arial 10,center,8e,68
+text,523,186,0,0,black,68,1,69,Arial 10,center,9e,69
+text,561,186,0,0,black,69,1,70,Arial 10,center,10e,70
+text,599,186,0,0,black,70,1,71,Arial 10,center,11e,71
+text,637,186,0,0,black,71,1,72,Arial 10,center,12e,72
+text,675,186,0,0,black,72,1,73,Arial 10,center,13e,73
+text,713,186,0,0,black,73,1,74,Arial 10,center,14e,74
+text,751,186,0,0,black,74,1,75,Arial 10,center,15e,75
+text,219,224,0,0,black,75,1,76,Arial 10,center,1f,76
+text,257,224,0,0,black,76,1,77,Arial 10,center,2f,77
+text,295,224,0,0,black,77,1,78,Arial 10,center,3f,78
+text,333,224,0,0,black,78,1,79,Arial 10,center,4f,79
+text,371,224,0,0,black,79,1,80,Arial 10,center,5f,80
+text,409,224,0,0,black,80,1,81,Arial 10,center,6f,81
+text,447,224,0,0,black,81,1,82,Arial 10,center,7f,82
+text,485,224,0,0,black,82,1,83,Arial 10,center,8f,83
+text,523,224,0,0,black,83,1,84,Arial 10,center,9f,84
+text,561,224,0,0,black,84,1,85,Arial 10,center,10f,85
+text,599,224,0,0,black,85,1,86,Arial 10,center,11f,86
+text,637,224,0,0,black,86,1,87,Arial 10,center,12f,87
+text,675,224,0,0,black,87,1,88,Arial 10,center,13f,88
+text,713,224,0,0,black,88,1,89,Arial 10,center,14f,89
+text,751,224,0,0,black,89,1,90,Arial 10,center,15f,90
+text,219,262,0,0,black,90,1,91,Arial 10,center,1g,91
+text,257,262,0,0,black,91,1,92,Arial 10,center,2g,92
+text,295,262,0,0,black,92,1,93,Arial 10,center,3g,93
+text,333,262,0,0,black,93,1,94,Arial 10,center,4g,94
+text,371,262,0,0,black,94,1,95,Arial 10,center,5g,95
+text,409,262,0,0,black,95,1,96,Arial 10,center,6g,96
+text,447,262,0,0,black,96,1,97,Arial 10,center,7g,97
+text,485,262,0,0,black,97,1,98,Arial 10,center,8g,98
+text,523,262,0,0,black,98,1,99,Arial 10,center,9g,99
+text,561,262,0,0,black,99,1,100,Arial 10,center,10g,100
+text,599,262,0,0,black,100,1,101,Arial 10,center,11g,101
+text,637,262,0,0,black,101,1,102,Arial 10,center,12g,102
+text,675,262,0,0,black,102,1,103,Arial 10,center,13g,103
+text,713,262,0,0,black,103,1,104,Arial 10,center,14g,104
+text,751,262,0,0,black,104,1,105,Arial 10,center,15g,105
+text,219,300,0,0,black,105,1,106,Arial 10,center,1h,106
+text,257,300,0,0,black,106,1,107,Arial 10,center,2h,107
+text,295,300,0,0,black,107,1,108,Arial 10,center,3h,108
+text,333,300,0,0,black,108,1,109,Arial 10,center,4h,109
+text,371,300,0,0,black,109,1,110,Arial 10,center,5h,110
+text,409,300,0,0,black,110,1,111,Arial 10,center,6h,111
+text,447,300,0,0,black,111,1,112,Arial 10,center,7h,112
+text,485,300,0,0,black,112,1,113,Arial 10,center,8h,113
+text,523,300,0,0,black,113,1,114,Arial 10,center,9h,114
+text,561,300,0,0,black,114,1,115,Arial 10,center,10h,115
+text,599,300,0,0,black,115,1,116,Arial 10,center,11h,116
+text,637,300,0,0,black,116,1,117,Arial 10,center,12h,117
+text,675,300,0,0,black,117,1,118,Arial 10,center,13h,118
+text,713,300,0,0,black,118,1,119,Arial 10,center,14h,119
+text,751,300,0,0,black,119,1,120,Arial 10,center,15h,120
+text,219,338,0,0,black,120,1,121,Arial 10,center,1i,121
+text,257,338,0,0,black,121,1,122,Arial 10,center,2i,122
+text,295,338,0,0,black,122,1,123,Arial 10,center,3i,123
+text,333,338,0,0,black,123,1,124,Arial 10,center,4i,124
+text,371,338,0,0,black,124,1,125,Arial 10,center,5i,125
+text,409,338,0,0,black,125,1,126,Arial 10,center,6i,126
+text,447,338,0,0,black,126,1,127,Arial 10,center,7i,127
+text,485,338,0,0,black,127,1,128,Arial 10,center,8i,128
+text,523,338,0,0,black,128,1,129,Arial 10,center,9i,129
+text,561,338,0,0,black,129,1,130,Arial 10,center,10i,130
+text,599,338,0,0,black,130,1,131,Arial 10,center,11i,131
+text,637,338,0,0,black,131,1,132,Arial 10,center,12i,132
+text,675,338,0,0,black,132,1,133,Arial 10,center,13i,133
+text,713,338,0,0,black,133,1,134,Arial 10,center,14i,134
+text,751,338,0,0,black,134,1,135,Arial 10,center,15i,135
+text,219,376,0,0,black,135,1,136,Arial 10,center,1j,136
+text,257,376,0,0,black,136,1,137,Arial 10,center,2j,137
+text,295,376,0,0,black,137,1,138,Arial 10,center,3j,138
+text,333,376,0,0,black,138,1,139,Arial 10,center,4j,139
+text,371,376,0,0,black,139,1,140,Arial 10,center,5j,140
+text,409,376,0,0,black,140,1,141,Arial 10,center,6j,141
+text,447,376,0,0,black,141,1,142,Arial 10,center,7j,142
+text,485,376,0,0,black,142,1,143,Arial 10,center,8j,143
+text,523,376,0,0,black,143,1,144,Arial 10,center,9j,144
+text,561,376,0,0,black,144,1,145,Arial 10,center,10j,145
+text,599,376,0,0,black,145,1,146,Arial 10,center,11j,146
+text,637,376,0,0,black,146,1,147,Arial 10,center,12j,147
+text,675,376,0,0,black,147,1,148,Arial 10,center,13j,148
+text,713,376,0,0,black,148,1,149,Arial 10,center,14j,149
+text,751,376,0,0,black,149,1,150,Arial 10,center,15j,150
+text,219,414,0,0,black,150,1,151,Arial 10,center,1k,151
+text,257,414,0,0,black,151,1,152,Arial 10,center,2k,152
+text,295,414,0,0,black,152,1,153,Arial 10,center,3k,153
+text,333,414,0,0,black,153,1,154,Arial 10,center,4k,154
+text,371,414,0,0,black,154,1,155,Arial 10,center,5k,155
+text,409,414,0,0,black,155,1,156,Arial 10,center,6k,156
+text,447,414,0,0,black,156,1,157,Arial 10,center,7k,157
+text,485,414,0,0,black,157,1,158,Arial 10,center,8k,158
+text,523,414,0,0,black,158,1,159,Arial 10,center,9k,159
+text,561,414,0,0,black,159,1,160,Arial 10,center,10k,160
+text,599,414,0,0,black,160,1,161,Arial 10,center,11k,161
+text,637,414,0,0,black,161,1,162,Arial 10,center,12k,162
+text,675,414,0,0,black,162,1,163,Arial 10,center,13k,163
+text,713,414,0,0,black,163,1,164,Arial 10,center,14k,164
+text,751,414,0,0,black,164,1,165,Arial 10,center,15k,165
+text,219,452,0,0,black,165,1,166,Arial 10,center,1l,166
+text,257,452,0,0,black,166,1,167,Arial 10,center,2l,167
+text,295,452,0,0,black,167,1,168,Arial 10,center,3l,168
+text,333,452,0,0,black,168,1,169,Arial 10,center,4l,169
+text,371,452,0,0,black,169,1,170,Arial 10,center,5l,170
+text,409,452,0,0,black,170,1,171,Arial 10,center,6l,171
+text,447,452,0,0,black,171,1,172,Arial 10,center,7l,172
+text,485,452,0,0,black,172,1,173,Arial 10,center,8l,173
+text,523,452,0,0,black,173,1,174,Arial 10,center,9l,174
+text,561,452,0,0,black,174,1,175,Arial 10,center,10l,175
+text,599,452,0,0,black,175,1,176,Arial 10,center,11l,176
+text,637,452,0,0,black,176,1,177,Arial 10,center,12l,177
+text,675,452,0,0,black,177,1,178,Arial 10,center,13l,178
+text,713,452,0,0,black,178,1,179,Arial 10,center,14l,179
+text,751,452,0,0,black,179,1,180,Arial 10,center,15l,180
+text,219,490,0,0,black,180,1,181,Arial 10,center,1m,181
+text,257,490,0,0,black,181,1,182,Arial 10,center,2m,182
+text,295,490,0,0,black,182,1,183,Arial 10,center,3m,183
+text,333,490,0,0,black,183,1,184,Arial 10,center,4m,184
+text,371,490,0,0,black,184,1,185,Arial 10,center,5m,185
+text,409,490,0,0,black,185,1,186,Arial 10,center,6m,186
+text,447,490,0,0,black,186,1,187,Arial 10,center,7m,187
+text,485,490,0,0,black,187,1,188,Arial 10,center,8m,188
+text,523,490,0,0,black,188,1,189,Arial 10,center,9m,189
+text,561,490,0,0,black,189,1,190,Arial 10,center,10m,190
+text,599,490,0,0,black,190,1,191,Arial 10,center,11m,191
+text,637,490,0,0,black,191,1,192,Arial 10,center,12m,192
+text,675,490,0,0,black,192,1,193,Arial 10,center,13m,193
+text,713,490,0,0,black,193,1,194,Arial 10,center,14m,194
+text,751,490,0,0,black,194,1,195,Arial 10,center,15m,195
+text,219,528,0,0,black,195,1,196,Arial 10,center,1n,196
+text,257,528,0,0,black,196,1,197,Arial 10,center,2n,197
+text,295,528,0,0,black,197,1,198,Arial 10,center,3n,198
+text,333,528,0,0,black,198,1,199,Arial 10,center,4n,199
+text,371,528,0,0,black,199,1,200,Arial 10,center,5n,200
+text,409,528,0,0,black,200,1,201,Arial 10,center,6n,201
+text,447,528,0,0,black,201,1,202,Arial 10,center,7n,202
+text,485,528,0,0,black,202,1,203,Arial 10,center,8n,203
+text,523,528,0,0,black,203,1,204,Arial 10,center,9n,204
+text,561,528,0,0,black,204,1,205,Arial 10,center,10n,205
+text,599,528,0,0,black,205,1,206,Arial 10,center,11n,206
+text,637,528,0,0,black,206,1,207,Arial 10,center,12n,207
+text,675,528,0,0,black,207,1,208,Arial 10,center,13n,208
+text,713,528,0,0,black,208,1,209,Arial 10,center,14n,209
+text,751,528,0,0,black,209,1,210,Arial 10,center,15n,210
+text,219,566,0,0,black,210,1,211,Arial 10,center,1o,211
+text,257,566,0,0,black,211,1,212,Arial 10,center,2o,212
+text,295,566,0,0,black,212,1,213,Arial 10,center,3o,213
+text,333,566,0,0,black,213,1,214,Arial 10,center,4o,214
+text,371,566,0,0,black,214,1,215,Arial 10,center,5o,215
+text,409,566,0,0,black,215,1,216,Arial 10,center,6o,216
+text,447,566,0,0,black,216,1,217,Arial 10,center,7o,217
+text,485,566,0,0,black,217,1,218,Arial 10,center,8o,218
+text,523,566,0,0,black,218,1,219,Arial 10,center,9o,219
+text,561,566,0,0,black,219,1,220,Arial 10,center,10o,220
+text,599,566,0,0,black,220,1,221,Arial 10,center,11o,221
+text,637,566,0,0,black,221,1,222,Arial 10,center,12o,222
+text,675,566,0,0,black,222,1,223,Arial 10,center,13o,223
+text,713,566,0,0,black,223,1,224,Arial 10,center,14o,224
+text,751,566,0,0,black,224,1,225,Arial 10,center,15o,225
+text,15,50,0,0,black,1000,1,Click the right ,Arial 14,w,0,1000
+text,15,70,0,0,black,1000,1,square or input,Arial 14,w,0,1000
+text,15,90,0,0,black,1000,1,below. Reveal a,Arial 14,w,0,1000
+text,15,110,0,0,black,1000,1,picture,Arial 14,w,0,1000
